@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 19e647db8431b394688cda3426045732
+timeCreated: 1518910481
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box_collider
+    100004: Girl_11_LOD0
+    100006: Girl_11_LOD1
+    100008: Girl_11_LOD2
+    100010: Girl_11_LOD3
+    100012: Girl_11_LOD4
+    100014: Gyroscooter_2_LOD0
+    100016: Gyroscooter_2_LOD1
+    100018: Gyroscooter_2_LOD2
+    100020: Gyroscooter_2_LOD3
+    100022: Gyroscooter_2_LOD4
+    100024: Wheel_L
+    100026: Wheel_L_collider
+    100028: Wheel_L_LOD0
+    100030: Wheel_L_LOD1
+    100032: Wheel_L_LOD2
+    100034: Wheel_L_LOD3
+    100036: Wheel_L_LOD4
+    100038: Wheel_R
+    100040: Wheel_R_collider
+    100042: Wheel_R_LOD0
+    100044: Wheel_R_LOD1
+    100046: Wheel_R_LOD2
+    100048: Wheel_R_LOD3
+    100050: Wheel_R_LOD4
+    400000: //RootNode
+    400002: Box_collider
+    400004: Girl_11_LOD0
+    400006: Girl_11_LOD1
+    400008: Girl_11_LOD2
+    400010: Girl_11_LOD3
+    400012: Girl_11_LOD4
+    400014: Gyroscooter_2_LOD0
+    400016: Gyroscooter_2_LOD1
+    400018: Gyroscooter_2_LOD2
+    400020: Gyroscooter_2_LOD3
+    400022: Gyroscooter_2_LOD4
+    400024: Wheel_L
+    400026: Wheel_L_collider
+    400028: Wheel_L_LOD0
+    400030: Wheel_L_LOD1
+    400032: Wheel_L_LOD2
+    400034: Wheel_L_LOD3
+    400036: Wheel_L_LOD4
+    400038: Wheel_R
+    400040: Wheel_R_collider
+    400042: Wheel_R_LOD0
+    400044: Wheel_R_LOD1
+    400046: Wheel_R_LOD2
+    400048: Wheel_R_LOD3
+    400050: Wheel_R_LOD4
+    2100000: Girl_11
+    2100002: hair11
+    2100004: Gyroscooter_2
+    2300000: Girl_11_LOD0
+    2300002: Girl_11_LOD1
+    2300004: Girl_11_LOD2
+    2300006: Girl_11_LOD3
+    2300008: Girl_11_LOD4
+    2300010: Gyroscooter_2_LOD0
+    2300012: Gyroscooter_2_LOD1
+    2300014: Gyroscooter_2_LOD2
+    2300016: Gyroscooter_2_LOD3
+    2300018: Gyroscooter_2_LOD4
+    2300020: Wheel_L_LOD0
+    2300022: Wheel_L_LOD1
+    2300024: Wheel_L_LOD2
+    2300026: Wheel_L_LOD3
+    2300028: Wheel_L_LOD4
+    2300030: Wheel_R_LOD0
+    2300032: Wheel_R_LOD1
+    2300034: Wheel_R_LOD2
+    2300036: Wheel_R_LOD3
+    2300038: Wheel_R_LOD4
+    3300000: Girl_11_LOD0
+    3300002: Girl_11_LOD1
+    3300004: Girl_11_LOD2
+    3300006: Girl_11_LOD3
+    3300008: Girl_11_LOD4
+    3300010: Gyroscooter_2_LOD0
+    3300012: Gyroscooter_2_LOD1
+    3300014: Gyroscooter_2_LOD2
+    3300016: Gyroscooter_2_LOD3
+    3300018: Gyroscooter_2_LOD4
+    3300020: Wheel_L_LOD0
+    3300022: Wheel_L_LOD1
+    3300024: Wheel_L_LOD2
+    3300026: Wheel_L_LOD3
+    3300028: Wheel_L_LOD4
+    3300030: Wheel_R_LOD0
+    3300032: Wheel_R_LOD1
+    3300034: Wheel_R_LOD2
+    3300036: Wheel_R_LOD3
+    3300038: Wheel_R_LOD4
+    4300000: Girl_11_LOD0
+    4300002: Gyroscooter_2_LOD1
+    4300004: Gyroscooter_2_LOD0
+    4300006: Wheel_L_LOD1
+    4300008: Wheel_L_LOD0
+    4300010: Wheel_L_LOD2
+    4300012: Wheel_L_LOD3
+    4300014: Wheel_L_LOD4
+    4300016: Wheel_R_LOD1
+    4300018: Wheel_R_LOD0
+    4300020: Wheel_R_LOD2
+    4300022: Wheel_R_LOD3
+    4300024: Wheel_R_LOD4
+    4300026: Gyroscooter_2_LOD3
+    4300028: Girl_11_LOD1
+    4300030: Girl_11_LOD2
+    4300032: Girl_11_LOD3
+    4300034: Girl_11_LOD4
+    4300036: Gyroscooter_2_LOD2
+    4300038: Gyroscooter_2_LOD4
+    7400000: Take 001
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

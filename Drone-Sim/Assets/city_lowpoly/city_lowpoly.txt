@@ -1,0 +1,68 @@
+This low poly building pack includes the "NYC buildings pack", the "skyscrapers", "residential buildings pack", "warehouses", "Barcelona low poly", "Venice low poly mobile", "Phaneron LP" and many other models.
+
+- 195 buildings from more than 1180 unique meshes.
+- Texture sizes are 1024x1024 and 2048x2048.
+- Some buildings are atlased, others are tiled.
+- All prefabs have very low resolution realtime lightmap set up by default. (lightmap tab, object menu, Advanced Parameters selector)
+
+Update version 3.4 -> Added 3 new skyscrapers
+
+_____________________________________
+How to use:
+
+- Simply drag and drop the kind of buildings you are interested in from the "prefabs" folder.
+Tweak diffuse texture size to fit your needs (1024x1024 / 2048x2048 max depending on texture).
+
+- For any building related material, please go to meshes > materials.
+
+- If you desire to use the HDRP version, delete all folders inside the parent "city_lowpoly" and unzip de "hdrp_assets" folder inside.
+
+Please, send requests to dactilardesign@gmail.com
+Thank you for ratings and feedback.
+
+
+_____________________________________
+
+Version history:
+
+1.0 "NYC buildings pack", "skyscrapers" and "residential buildings pack" released
+together with a demo scene including trees and some textures
+
+1.3 Added closed building meshes by request, for volume volume shadows 
+compatibility. Please note that some residential models are now missing from
+this prefabs set. 
+
+1.3.1 Mesh update
+
+1.4 Added "skyscrapers under construction" models and "crane" model. Discontinued old 
+lightmapped models, only Beast models and textures are included. Added reflectivity
+for some skyscrapers.
+
+1.5 Added Barcelona buildings, added selfillumination for skyscrappers and 
+NYC buildings, updated textures (reflectivity for all skyscrappers, residential 
+and NYC buildings). Added new demo scene "small planet".
+
+1.6 Updated Barcelona buildings package with 10 new buildings, added warehouse building pack.
+
+1.7. Added "Venize Low Poly Mobile" mobile pack.
+
+1.91. Added 22 buildings not atlased for higher pixel density.
+
+1.95. Added 4 new buildings, from Mexico DF.
+
+2.0. Added France buildings.
+
+2.01. Fixed France scale.
+
+2.1. Added new buildings up to 165 prefabs, reworked all meshes for better scale control.
+
+3.0. Unity 5 update. All buildings have emission maps.
+
+3.2. Added 23 new buildings.
+
+3.3 Added zip with HDRP assets, update to Unity 2021
+
+3.4 Added 3 new skyscrapers
+
+________________________________
+
