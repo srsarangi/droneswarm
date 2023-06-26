@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Final Scenes/ManualSwarm.unity
+    guid: a1382f66601b7afa38be846a305efc8b
+  - enabled: 1
+    path: Assets/scenes/New Scene/AutoSwarm.unity
+    guid: dca949940aa93e34d8e56b835f5301bc
+  - enabled: 1
+    path: Assets/scenes/New Scene/FollowLeaderSwarm.unity
+    guid: ffa2c4851d521b6e6af244f2099a6ba0
+  - enabled: 1
+    path: Assets/scenes/New Scene/CreditsScreen.unity
+    guid: d8c50d96378ac1f498d60cd1b3df29fc
+  - enabled: 1
+    path: Assets/scenes/New Scene/WelcomeScreen.unity
+    guid: 8a000591bda8c764f8feb63fb108a277
+  - enabled: 1
+    path: Assets/scenes/New Scene/navScene 2.unity
+    guid: 1a349042eec581a539ee33cb70f28e60
+  - enabled: 1
+    path: Assets/scenes/New Scene/NavSceneCity.unity
+    guid: 0c2c0f30a312eeb5c82e737d40ae5fe9
+  - enabled: 1
+    path: Assets/scenes/Old RealisticDrone Scene/1_Circuit.unity
+    guid: 5849da7b3ec64b249851441d79fff791
+  - enabled: 1
+    path: Assets/scenes/New Scene/DroneCamera.unity
+    guid: b65fcb4b8c581b84dbe9cf0ead71a226
+  - enabled: 1
+    path: Assets/scenes/New Scene/SinglePath.unity
+    guid: 06ec9211e75d40e4c8b54293671cbe7f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 96b886afc1bd6aa4ea959a62d5f0123a,
+      type: 2}

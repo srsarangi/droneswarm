@@ -1,0 +1,220 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.1": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TextureOps.Editor": "1.0.0",
+          "TextureOps.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "TextureOps.Editor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        }
+      },
+      "TextureOps.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "compile": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TextureOps.Editor": "1.0.0",
+          "TextureOps.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "TextureOps.Editor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        }
+      },
+      "TextureOps.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "compile": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x64": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TextureOps.Editor": "1.0.0",
+          "TextureOps.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "TextureOps.Editor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        }
+      },
+      "TextureOps.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "compile": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.1/win-x86": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "TextureOps.Editor": "1.0.0",
+          "TextureOps.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "TextureOps.Editor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Editor.dll": {}
+        }
+      },
+      "TextureOps.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.1",
+        "compile": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextureOps.Runtime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp-firstpass/1.0.0": {
+      "type": "project",
+      "path": "Assembly-CSharp-firstpass.csproj",
+      "msbuildProject": "Assembly-CSharp-firstpass.csproj"
+    },
+    "TextureOps.Editor/1.0.0": {
+      "type": "project",
+      "path": "TextureOps.Editor.csproj",
+      "msbuildProject": "TextureOps.Editor.csproj"
+    },
+    "TextureOps.Runtime/1.0.0": {
+      "type": "project",
+      "path": "TextureOps.Runtime.csproj",
+      "msbuildProject": "TextureOps.Runtime.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.1": [
+      "Assembly-CSharp-firstpass >= 1.0.0",
+      "TextureOps.Editor >= 1.0.0",
+      "TextureOps.Runtime >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Harshit_PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj",
+      "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net471"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net471": {
+          "projectReferences": {
+            "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj"
+            },
+            "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj": {
+              "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj"
+            },
+            "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj": {
+              "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net471": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

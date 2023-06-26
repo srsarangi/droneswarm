@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor-firstpass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor-firstpass.csproj",
+        "projectName": "Assembly-CSharp-Editor-firstpass",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor-firstpass.csproj",
+        "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor.csproj",
+        "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor-firstpass.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-Editor-firstpass.csproj"
+              },
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj"
+              },
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj",
+        "projectName": "Assembly-CSharp-firstpass",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj",
+        "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj"
+              },
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp.csproj",
+        "frameworks": {
+          "net471": {
+            "projectReferences": {
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\Assembly-CSharp-firstpass.csproj"
+              },
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj"
+              },
+              "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj": {
+                "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      }
+    },
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj",
+        "projectName": "TextureOps.Editor",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Editor.csproj",
+        "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj",
+        "projectName": "TextureOps.Runtime",
+        "projectPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\TextureOps.Runtime.csproj",
+        "packagesPath": "C:\\Users\\Harshit_PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harshit_PC\\Desktop\\Drone-Sim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Harshit_PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
