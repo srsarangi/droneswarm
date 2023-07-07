@@ -16,7 +16,9 @@ Windows/Linux OS
 ##  2. How To Execute Scene 
 
 i. Open Project in Unity3D.
+
 ii. Go to Assets -> Scenes -> Final Scenes.
+
 iii. Open ***FinalVideo*** Scene and click on play button.
 iv. Select leader drone and Check '*Go*' checkbox of Leader Waypoints section in Inspector.
 
