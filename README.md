@@ -19,16 +19,16 @@ ii. Go to **Assets -> Scenes -> Final Scenes**.
 
 iii. Open the **FinalVideo** scene and click on the play button.
 
-iv. Select the leader drone and Check the "Go"  checkbox in the Leader Waypoints section in _Inspector_.
+iv. Select the leader drone and Check the **Go**  checkbox in the Leader Waypoints section in _Inspector_.
 
 ##3. Important Points 
 
 
-***Assets -> Scenes -> Final Scenes***    Contains all the simulated environments
+***Assets -> Scenes -> Final Scenes***  Contains all the simulated environments
 
-***Assets -> Scripts -> Final Scripts***  Contains all the script files for Swarm
+**Assets -> Scripts -> Final Scripts**  Contains all the script files for Swarm
 
-***Currently, Leader Waypoints movements is provided for Finalvideo.  To run any other environments. Modify Leader Waypoints accordingly. It is present in Assets -> Scripts -> Final Scripts.***
+Currently, the path for the leader is fixed which can be changed as per requirements by editing final scripts.
 
 
 
