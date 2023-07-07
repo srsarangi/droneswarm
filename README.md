@@ -15,11 +15,11 @@ Operating System: Windows/Linux
 
 i. Open a project in Unity3D.
 
-ii. Go to Assets -> Scenes -> Final Scenes.
+ii. Go to **Assets -> Scenes -> Final Scenes**.
 
-iii. Open ***FinalVideo*** Scene and click on the play button.
+iii. Open the **FinalVideo** scene and click on the play button.
 
-iv. Select leader drone and Check '*Go*' checkbox of Leader Waypoints section in Inspector.
+iv. Select the leader drone and Check the "Go"  checkbox in the Leader Waypoints section in _Inspector_.
 
 ##3. Important Points 
 
@@ -28,7 +28,7 @@ iv. Select leader drone and Check '*Go*' checkbox of Leader Waypoints section in
 
 ***Assets -> Scripts -> Final Scripts***  Contains all the script files for Swarm
 
-***Leader Waypoints movements is provided for Finalvideo.  To run any other environments. Modify Leader Waypoints accordingly. It is present in Assets -> Scripts -> Final Scripts.***
+***Currently, Leader Waypoints movements is provided for Finalvideo.  To run any other environments. Modify Leader Waypoints accordingly. It is present in Assets -> Scripts -> Final Scripts.***
 
 
 
