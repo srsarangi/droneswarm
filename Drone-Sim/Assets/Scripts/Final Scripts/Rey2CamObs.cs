@@ -61,42 +61,7 @@ public class Rey2CamObs : MonoBehaviour
     private int counter = 0;
 
     //To see whether a coponent is an obstacle or not!?
-    bool isHuge(List<Tuple<int, int>> component)
-    {
-        if (component.Count > obstaclePixelCountThreshold)
-        {
-            return true;
-        }
-        return false;
-    }
 
-    bool extendsFromBottom(List<Tuple<int, int>> component)
-    {
-        bool result = false;
-        int countBottom = 0;
-        for (int i = 0; i < component.Count; i++)
-        {
-            if (component[i].Item1 > 250)
-            {
-                countBottom += 1;
-                if (countBottom > 10)
-                {
-                    result = true;
-                    break;
-                }
-            }
-        }
-        return result;
-    }
-
-    bool isObstacle(List<Tuple<int, int>> component)
-    {
-        if (isHuge(component))
-        {
-            return true;
-        }
-        return false;
-    }
 
     bool isSafe(float[][] depthMap, int row, int col, int n, int l, bool[,] visited)
     {
@@ -138,7 +103,6 @@ public class Rey2CamObs : MonoBehaviour
 
     Tuple<List<List<Tuple<int, int>>>, List<List<Tuple<int, int>>>> connectedComponents(float[][] depthMap, int n, int l)
     {
-        //n = rows and l = columns
         int connectedComp = 0;
         //int l = M[0].Length;
         bool[,] visited = new bool[256, 256];
@@ -184,7 +148,7 @@ public class Rey2CamObs : MonoBehaviour
     {
         List<Tuple<Tuple<List<Tuple<Tuple<int, int>, float>>, List<int>>, List<Tuple<Tuple<Tuple<int, int>, Tuple<int, int>>, float>>>> answer = new List<Tuple<Tuple<List<Tuple<Tuple<int, int>, float>>, List<int>>, List<Tuple<Tuple<Tuple<int, int>, Tuple<int, int>>, float>>>>();
 
-        for (int camera_num = 0; camera_num < cameras.Count; camera_num++)
+        for (int camera_num = 0; camera_num < cameras.Count; camera_num++) // BOth cameras left and right
         {
             List<Tuple<Tuple<int, int>, float>> depth = new List<Tuple<Tuple<int, int>, float>>();
            
@@ -319,48 +283,9 @@ public class Rey2CamObs : MonoBehaviour
     
     public float leftWeight = 0.5f;
     public float rightWeight = 0.5f;
-    private int dronec = 0;
 
 
-    bool outOfCriticalRegionleft(Tuple<Tuple<Tuple<float, float>, Tuple<float, float>>, float> bound)
-    {
-        float mindisp_x = bound.Item1.Item1.Item1;
-        float mindisp_y = bound.Item1.Item1.Item2;
-        float maxdisp_x = bound.Item1.Item2.Item1;
-        float maxdisp_y = bound.Item1.Item2.Item2;
-        float z_depth = bound.Item2;
-        if (Mathf.Abs(maxdisp_x) > 8)
-        {
-            return true;
-        }
-        if (z_depth > 16)
-        {
-            return true;
-        }
-        
-
-
-        return false;
-        
-    }
-
-    bool outOfCriticalRegionright(Tuple<Tuple<Tuple<float, float>, Tuple<float, float>>, float> bound)
-    {
-        if (bound.Item2 > 16)
-        {
-            return true;
-        }
-        if (Mathf.Abs(bound.Item1.Item1.Item1) > 8)
-        {
-            return true;
-        }
-        if (Mathf.Abs(bound.Item1.Item1.Item2) > 8)
-        {
-            return true;
-        }
-
-        return false;
-    }
+    
 
     // Update is called once per frame
     void Update()

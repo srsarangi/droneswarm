@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\sensors\Accelerometer.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
     <Compile Include="Assets\depth_cam\ReynoldsWith_ThreeCamera.cs" />
     <Compile Include="Assets\Scripts\Final Scripts\LeaderWaypoints.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\optimizations\OptimizationManager.cs" />
@@ -86,10 +85,8 @@
     <Compile Include="Assets\Models\Realistic Drone\Level1_Trajectories\WaypointCircuit.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level2_IA\maze\mazeExplorer.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\NewReynoldsScript.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\welcomeScreen.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\droneMovementController.cs" />
-    <Compile Include="Assets\NewNonGps.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Tools\dataReader.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\OberS.cs" />
     <Compile Include="Assets\Scripts\Final Scripts\Rey2CamObs.cs" />
@@ -100,7 +97,6 @@
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\optimizations\twidOptimization\twiddleBehaviour.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\CreateFollower.cs" />
     <Compile Include="Assets\depth_cam\New_camera_2.cs" />
-    <Compile Include="Assets\try2\newCamera.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\Swarming.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level1_Trajectories\Waypoint.cs" />
@@ -108,8 +104,6 @@
     <Compile Include="Assets\Scripts\previous Scripts\DroneMovementScript.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level1_Trajectories\singlePoint.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\sensors\GPS.cs" />
-    <Compile Include="Assets\try2\Reynoldmtp2.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\Path.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\sensors\noiseAdder.cs" />
     <Compile Include="Assets\depth_cam\Reynolds_With2Camera.cs" />
@@ -117,7 +111,6 @@
     <Compile Include="Assets\Scripts\previous Scripts\cameraFollowScript.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\RulesOfReynolds.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\optimizations\geneticOptimization\GAmanager.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\sensors\Barometer.cs" />
     <Compile Include="Assets\Models\Realistic Drone\Level0_Stabilizing\optimizations\twidOptimization\twiddleSettings.cs" />
     <Compile Include="Assets\Scripts\previous Scripts\DroneSimpleMove.cs" />
